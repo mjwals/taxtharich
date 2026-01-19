@@ -1,0 +1,9 @@
+// imported into vite.config.js file
+// Vuetify variable overrides (strictly no classes)
+
+@use 'vuetify/settings' with (
+  $body-font-family: (
+    'Nunito Sans',
+    serif
+  )
+);

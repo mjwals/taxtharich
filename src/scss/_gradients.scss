@@ -1,0 +1,26 @@
+.button-bordered {
+  background-image: linear-gradient(
+    to right,
+    rgb(var(--v-theme-secondary)),
+    rgb(var(--v-theme-primary))
+  );
+  display: inline-flex;
+  border-radius: 4px;
+  padding: 1px;
+}
+
+.bg-gradient {
+  background-image: linear-gradient(
+    to right,
+    rgb(var(--v-theme-secondary)),
+    rgb(var(--v-theme-primary))
+  );
+}
+
+.gradient {
+  background-image: linear-gradient(
+    to right,
+    rgb(var(--v-theme-secondary)),
+    rgb(var(--v-theme-primary))
+  );
+}

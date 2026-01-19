@@ -1,0 +1,22 @@
+@use 'sass:map'; // map get function is now a sass module
+@use '@/scss/variables-app' as *;
+
+.font-base {
+  font-size: map.get($font-sizes, base) !important;
+}
+
+.font-sm {
+  font-size: map.get($font-sizes, sm) !important;
+}
+
+.font-md {
+  font-size: map.get($font-sizes, md) !important;
+}
+
+.font-lg {
+  font-size: map.get($font-sizes, lg) !important;
+}
+
+.font-xl {
+  font-size: map.get($font-sizes, xl) !important;
+}
