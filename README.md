@@ -18,9 +18,15 @@ In 2024, I wanted to strengthen my Vue 3 skills — especially around working wi
 - MaterialIcons v7.4.47
 - FontAwesome v6.6
 - uuidv4
-## How to use it
+## How to run it
 Requires Node.js v18+ or v20+ for the best experience.
 - Download and extract the project zip
 - Open a terminal in the project folder (the one containing `package.json`)
 - Install dependencies: `npm install`
 - Start the development server: `npm run dev`
+
+## How to use it
+- Search through the 300 richest people in the UK
+- Click `Add` on your chosen selection(s)
+- Choose an tax amount from the dropdown
+- Click on `taxtharich` and seen the full break down
