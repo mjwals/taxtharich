@@ -19,7 +19,7 @@ In 2024, I wanted to strengthen my Vue 3 skills — especially around working wi
 - FontAwesome v6.6
 - uuidv4
 ## How to use it
-Requires Node.js v18+ or v20+ for smoothest experience
+Requires Node.js v18+ or v20+ for the best experience.
 - Download and extract the project zip
 - Open a terminal in the project folder (the one containing `package.json`)
 - Install dependencies: `npm install`
